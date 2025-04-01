@@ -1,6 +1,4 @@
-Here's your text converted into Markdown with added beautification and alignment:
 
-```markdown
 # Meeting Notes
 
 ## Workshop Introduction
